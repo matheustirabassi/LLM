@@ -12,8 +12,9 @@
 
 ## Sobre
 
-Analisa e classifica o feedback do cliente considerando a satisfação e sentimento em relação ao
-produto para retornar uma nota, lista de pontos positivos e negativos em JSON.
+Analisa e classifica o feedback do cliente considerando os pontos positivos e negativos descritos
+por ele para retornar uma nota, de 0 a 5, sendo 0 a mais negativa e 5 a mais positiva, 
+lista de pontos positivos e negativos no formato JSON.
 
 ### Exemplo
 
